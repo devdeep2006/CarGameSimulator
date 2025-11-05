@@ -1,0 +1,6 @@
+numpy>=1.21.0
+pygame>=2.1.0
+pymunk>=6.2.1
+gymnasium>=0.27.0
+pyyaml>=6.0
+stable-baselines3>=1.7.0
